@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryewan
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning azure data factory, vue3 and flutter
+- 🌱 I’m currently learning web development, vue3 and flutter
 - 📫 How to reach me via facebook search https://www.facebook.com/ryewan.cs
 
 <!---
